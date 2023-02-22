@@ -4,20 +4,19 @@
 
 - 📚 Atualmente estou aprendendo JavaScript, Kotlin e BD
 - 📫 Como entrar em contato comigo: pinheirocamila49800@gmail.com
-- 💡 Curiosidade: Sou apaixonada por livros, filmes e música   
+- 💡 Curiosidade: Sou apaixonada por livros, filmes e música  
+ 
 ---
 
 ### Tecnologias:
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,java,git,github,figma&theme=light" />
+    <img src="https://skillicons.dev/icons?i=html,css,java,git,github,figma&theme=dark" />
   </a>
 
 ### Ferramentas:
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,eclipse&theme=light" />
+    <img src="https://skillicons.dev/icons?i=vscode,eclipse&theme=dark" />
   </a>
-
-
 
 ---
 
