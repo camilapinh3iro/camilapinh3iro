@@ -1,5 +1,4 @@
-<img align="right" width="230px" style="margin-top:-20px" src="./img/octocat-readme.png">
-
+<img align="right" width="250px" style="margin-top:-20px" src="./img/octocat-readme.png">
 
 </br>
 </br>
@@ -11,10 +10,10 @@
 <a href = "mailto:pinheirocamila49800@gmail.com" target="_black"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
- <br>
+ 
  <br>
 
-📚 Atualmente estou aprendendo JavaScript, Kotlin e BD   
+📚 Atualmente estou aprendendo **JavaScript, Kotlin e BD**   
 📫 Como entrar em contato comigo: pinheirocamila49800@gmail.com      
 💡 Curiosidade: sou apaixonada por livros, filmes e música  
 
@@ -37,7 +36,7 @@
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camilapinh3iro&layout=compact&langs_count=7&theme=tokyonight"/>
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=camilapinh3iro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
+  ![Snake animation](https://github.com/viniciusnunes137/viniciusnunes137/blob/output/github-contribution-grid-snake.svg)
 
 
-
-
+</div>
