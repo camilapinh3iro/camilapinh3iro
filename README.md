@@ -1,4 +1,4 @@
-<img align="right" width="300px" style="margin-top:-20px" src="./img/image-programmer.png">
+<img align="right" width="270px" style="margin-top:-20px" src="./img/image-programmer.png">
 
 </br>
 </br>
