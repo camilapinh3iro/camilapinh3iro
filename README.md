@@ -6,7 +6,7 @@
 <div>
 
  <h1 align="left">Camila Pinheiro</h1>
- <a href="https://instagram.com/camilapinh3iro" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 
 <a href="https://www.linkedin.com/in/camila-pinheiro-4a4676255/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_black"></a>
 <a href = "mailto:camilapinh3iro@gmail.com" target="_black"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
@@ -39,5 +39,5 @@
 
 
 
-![snake gif](https://github.com/camilapinh3iro/camilapinh3iro/blob/output/github-contribution-grid-snake.svg)
+
 </div>
